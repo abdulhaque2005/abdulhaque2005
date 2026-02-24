@@ -19,16 +19,32 @@
 
 ---
 
-# 👨‍💻 About
 
-Full Stack Developer specializing in the **MERN Stack**.
 
-I build scalable backend systems, modern UI/UX interfaces, and production-ready applications.
+## 👨‍💻 About Me
 
-- 🚀 Real-world full stack applications  
-- 🔥 Secure REST API development  
-- 🎨 Clean and responsive UI/UX  
-- ☁ Modern cloud deployment  
+<p>
+Full Stack Developer specializing in <b>MERN Stack</b>.<br/>
+Focused on building scalable backend systems, modern UI/UX,<br/>
+and production-ready web applications.
+</p>
+
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=00FFFF&center=true&vCenter=true&width=700&lines=Building+Real-World+Applications;Designing+Secure+REST+APIs;Creating+Clean+Responsive+UI;Deploying+Cloud-Ready+Projects"/>
+</p>
+
+<div align="center">
+
+🚀 Real-world full stack applications  
+🔥 Secure REST API development  
+🎨 Clean & responsive UI/UX  
+☁ Modern cloud deployment  
+
+</div>
+
+---
 
 ---
 
@@ -97,8 +113,7 @@ I build scalable backend systems, modern UI/UX interfaces, and production-ready 
   <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=00FFFF&center=true&vCenter=true&width=600&lines=Strong+Frontend+Logic;Scalable+Backend+Design;Secure+API+Development;Clean+UI%2FUX+Execution"/>
 </p>
 
----
-# ⚡ Core Strengths
+
 
 ---
 
