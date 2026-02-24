@@ -1,4 +1,4 @@
-<!-- =================== CYBERPUNK ELITE README =================== -->
+<!-- =================== CYBERPUNK ELITE v2 =================== -->
 
 <div align="center">
 
@@ -10,17 +10,25 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&color=00FFFF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Engineer;REST+API+Architect;UI%2FUX+Focused+Frontend;Building+Scalable+Web+Applications+🚀"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbdulHaq03&label=PROFILE+VIEWS&color=00FFFF&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-00FFFF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Architecture-MERN-24243e?style=flat-square"/>
+  <img src="https://img.shields.io/badge/APIs-REST-302b63?style=flat-square"/>
+</p>
+
 ---
 
 # 👨‍💻 About
 
-Full Stack Developer specializing in the **MERN Stack**.  
-Focused on building scalable backend systems, clean UI/UX, and production-ready applications.
+Full Stack Developer specializing in the **MERN Stack**.
 
-- 🚀 Building real-world full stack applications  
-- 🔥 Designing RESTful APIs  
-- 🎨 Strong UI/UX focus  
-- 🌍 Deploying modern web apps  
+I build scalable backend systems, modern UI/UX interfaces, and production-ready applications.
+
+- 🚀 Real-world full stack applications  
+- 🔥 Secure REST API development  
+- 🎨 Clean and responsive UI/UX  
+- ☁ Modern cloud deployment  
 
 ---
 
@@ -28,45 +36,49 @@ Focused on building scalable backend systems, clean UI/UX, and production-ready 
 
 ## 🚀 MERN Core
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs"/>
 </p>
 
 ---
 
-## 🎨 Frontend & UI/UX
+## 🎨 Frontend & UI
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,html,css,vite,figma" />
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,html,css,vite,figma"/>
 </p>
 
 ---
 
-## 🛠 Backend & REST APIs
+## 🔵 Backend & APIs
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
-`REST API` • `JWT Authentication` • `MVC Architecture` • `Middleware`
+`REST API` • `JWT Auth` • `MVC Pattern` • `Middleware`
 
 ---
 
 ## 🗄 Database
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 </p>
 
 ---
 
 ## 🧪 Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=postman,git,github" />
+<img src="https://skillicons.dev/icons?i=postman,git,github"/>
 </p>
 
 ---
 
 ## ☁ Deployment
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vercel,netlify,render,docker" />
+<img src="https://skillicons.dev/icons?i=vercel,netlify,render,docker"/>
 </p>
+
+---
+
+# ⚡ Core Strengths
 
 ---
 
@@ -77,7 +89,7 @@ Focused on building scalable backend systems, clean UI/UX, and production-ready 
 - Secure JWT authentication  
 - Admin dashboard  
 - Responsive UI  
-- Deployed to cloud  
+- Cloud deployed  
 
 ---
 
@@ -85,15 +97,15 @@ Focused on building scalable backend systems, clean UI/UX, and production-ready 
 - Express + MongoDB  
 - CRUD operations  
 - Middleware validation  
-- Fully tested using Postman  
+- Tested with Postman  
 
 ---
 
 ### 🌐 Portfolio Website
 - React + Tailwind  
-- Smooth animations  
-- Clean glassmorphism UI  
-- Live deployment  
+- Smooth transitions  
+- Glassmorphism UI  
+- Deployed on Vercel  
 
 ---
 
@@ -131,10 +143,6 @@ Focused on building scalable backend systems, clean UI/UX, and production-ready 
 
 </p>
 
-<p align="center">
-abdulhaque4171@gmail.com
-</p>
-
 ---
 
 <div align="center">
@@ -143,7 +151,7 @@ abdulhaque4171@gmail.com
 
 > Build Clean.  
 > Scale Smart.  
-> Deploy Confidently.
+> Ship Fast.
 
 </div>
 
