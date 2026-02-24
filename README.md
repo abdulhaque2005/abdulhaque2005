@@ -77,7 +77,27 @@ I build scalable backend systems, modern UI/UX interfaces, and production-ready 
 </p>
 
 ---
+---
 
+# ⚡ Core Strengths
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Frontend%20Engineering-90%25-00FFFF?style=for-the-badge&logo=react&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Backend%20Architecture-85%25-24243e?style=for-the-badge&logo=node.js&logoColor=white" />
+
+<img src="https://img.shields.io/badge/REST%20API%20Design-85%25-302b63?style=for-the-badge&logo=express&logoColor=white" />
+
+<img src="https://img.shields.io/badge/UI%2FUX%20Implementation-80%25-0f0c29?style=for-the-badge&logo=figma&logoColor=white" />
+
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=00FFFF&center=true&vCenter=true&width=600&lines=Strong+Frontend+Logic;Scalable+Backend+Design;Secure+API+Development;Clean+UI%2FUX+Execution"/>
+</p>
+
+---
 # ⚡ Core Strengths
 
 ---
