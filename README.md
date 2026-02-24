@@ -1,28 +1,131 @@
-<!-- ================= ULTRA HEAVY CYBER README ================= -->
+<!-- ================= FULL STACK MERN README ================= -->
 
-<h1 align="center">⚡ ABDUL HAQUE ⚡</h1>
+<h1 align="center">🚀 Abdul Haque</h1>
+<h3 align="center">Full Stack Developer | MERN Stack Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00FFFF&center=true&vCenter=true&width=900&lines=AI+Engineer+in+Progress;Machine+Learning+Architect;Computer+Vision+Explorer;Causal+Inference+Enthusiast;Building+The+Future+With+Data+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=00FFFF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Engineer;React+%7C+Node+%7C+MongoDB;Building+Scalable+Web+Applications+🚀" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdulHaq03&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/AbdulHaq03?label=Followers&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/AbdulHaq03?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow" />
+  <img src="https://komarev.com/ghpvc/?username=AbdulHaq03&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-# 🧠 WHO AM I?
+# 👨‍💻 About Me
 
-```python
-class AbdulHaque:
-    def __init__(self):
-        self.education = "Data Science @ FAST NUCES"
-        self.interests = ["AI", "Machine Learning", "Computer Vision", "Causal Inference"]
-        self.current_focus = "Building Scalable Intelligent Systems"
-        self.goal = "AI Engineer @ Top Global Tech"
+🎓 Undergraduate Student  
+💻 Passionate Full Stack Developer  
+🚀 Currently focused on MERN Stack Development  
+🔥 Building scalable web apps with clean architecture  
 
-    def build(self):
-        return "Turning Data → Intelligence → Impact"
+- 🌱 Improving backend architecture skills  
+- ⚡ Working on real-world projects  
+- 🧠 Strong focus on problem solving  
+- 🎯 Goal: Become Industry-Level Full Stack Engineer  
+
+---
+
+# 🛠 Tech Stack
+
+## 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,c,java,python" />
+</p>
+
+## 🌐 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,html,css,vite" />
+</p>
+
+## 🛠 Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+## 🗄 Database
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+## ☁ Tools & Deployment
+<p>
+<img src="https://skillicons.dev/icons?i=docker,firebase,vercel,git,github" />
+</p>
+
+---
+
+# 🚀 Projects
+
+### 🛒 E-Commerce Web App
+- Full MERN stack implementation  
+- Authentication & JWT  
+- REST APIs  
+- Responsive UI  
+
+### 📚 Student Management API
+- Express-based REST API  
+- CRUD operations  
+- MongoDB integration  
+
+### 🌐 Portfolio Website
+- React + Tailwind  
+- Responsive design  
+- Clean UI/UX  
+
+*(Add your real repo links here)*
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulHaq03&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulHaq03&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulHaq03&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/abdul-haque-a08150398">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://x.com/Abdul_haque_78">
+  <img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+
+<a href="mailto:abdulhaque4171@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+<p align="center">
+abdulhaque4171@gmail.com
+</p>
+
+---
+
+# 💭 Developer Mindset
+
+> "First make it work.  
+> Then make it clean.  
+> Then make it scalable."
+
+---
+
+<p align="center">
+🔥 Building. Learning. Growing.
+</p>
