@@ -1,16 +1,28 @@
-## Hi there 👋
+<!-- ================= ULTRA HEAVY CYBER README ================= -->
 
-<!--
-**abdulhaque2005/abdulhaque2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">⚡ ABDUL HAQUE ⚡</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00FFFF&center=true&vCenter=true&width=900&lines=AI+Engineer+in+Progress;Machine+Learning+Architect;Computer+Vision+Explorer;Causal+Inference+Enthusiast;Building+The+Future+With+Data+🚀" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbdulHaq03&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/AbdulHaq03?label=Followers&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/AbdulHaq03?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow" />
+</p>
+
+---
+
+# 🧠 WHO AM I?
+
+```python
+class AbdulHaque:
+    def __init__(self):
+        self.education = "Data Science @ FAST NUCES"
+        self.interests = ["AI", "Machine Learning", "Computer Vision", "Causal Inference"]
+        self.current_focus = "Building Scalable Intelligent Systems"
+        self.goal = "AI Engineer @ Top Global Tech"
+
+    def build(self):
+        return "Turning Data → Intelligence → Impact"
