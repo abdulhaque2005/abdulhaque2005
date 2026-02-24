@@ -1,10 +1,10 @@
-<!-- ================= FULL STACK MERN README ================= -->
+<!-- ================= BEAST MODE FULL STACK README ================= -->
 
-<h1 align="center">🚀 Abdul Haque</h1>
-<h3 align="center">Full Stack Developer | MERN Stack Engineer</h3>
+<h1 align="center">🔥 Abdul Haque 🔥</h1>
+<h3 align="center">Full Stack Developer | MERN Stack Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=00FFFF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Engineer;React+%7C+Node+%7C+MongoDB;Building+Scalable+Web+Applications+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=00F7FF&center=true&vCenter=true&width=850&lines=MERN+Stack+Developer;REST+API+Builder;UI%2FUX+Focused+Frontend;Scalable+Web+Applications+🚀;Clean+Code+%7C+Better+Architecture" />
 </p>
 
 <p align="center">
@@ -15,70 +15,82 @@
 
 # 👨‍💻 About Me
 
-🎓 Undergraduate Student  
 💻 Passionate Full Stack Developer  
-🚀 Currently focused on MERN Stack Development  
-🔥 Building scalable web apps with clean architecture  
+🚀 Specialized in MERN Stack Development  
+🎯 Focused on building scalable, production-ready web apps  
+🎨 Strong interest in clean UI/UX & smooth user experience  
 
-- 🌱 Improving backend architecture skills  
-- ⚡ Working on real-world projects  
-- 🧠 Strong focus on problem solving  
-- 🎯 Goal: Become Industry-Level Full Stack Engineer  
+- 🔥 Building real-world full stack projects  
+- ⚡ Designing RESTful APIs  
+- 🌐 Deploying live applications  
+- 🧠 Improving backend architecture  
 
 ---
 
 # 🛠 Tech Stack
 
-## 💻 Languages
+## 🚀 MERN Core
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,cpp,c,java,python" />
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
 </p>
 
-## 🌐 Frontend
+## 🎨 Frontend & UI/UX
 <p>
-<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,html,css,vite" />
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,html,css,vite,figma" />
 </p>
 
-## 🛠 Backend
+## 🛠 Backend & API
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
+
+`REST API` • `JWT Authentication` • `MVC Architecture` • `Middleware`
 
 ## 🗄 Database
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-## ☁ Tools & Deployment
+## 🧪 Testing & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=docker,firebase,vercel,git,github" />
+<img src="https://skillicons.dev/icons?i=postman,git,github" />
+</p>
+
+## ☁ Deployment
+<p>
+<img src="https://skillicons.dev/icons?i=vercel,netlify,render,docker" />
 </p>
 
 ---
 
-# 🚀 Projects
+# 🚀 Featured Projects
 
-### 🛒 E-Commerce Web App
-- Full MERN stack implementation  
-- Authentication & JWT  
-- REST APIs  
-- Responsive UI  
-
-### 📚 Student Management API
-- Express-based REST API  
-- CRUD operations  
-- MongoDB integration  
-
-### 🌐 Portfolio Website
-- React + Tailwind  
-- Responsive design  
-- Clean UI/UX  
-
-*(Add your real repo links here)*
+### 🛒 Full Stack E-Commerce Platform
+- MERN architecture  
+- JWT Authentication  
+- Admin dashboard  
+- Payment integration ready  
+- Fully responsive UI  
 
 ---
 
-# 📊 GitHub Stats
+### 📚 Student Management REST API
+- Express + MongoDB  
+- CRUD operations  
+- Middleware validation  
+- Postman tested  
+
+---
+
+### 🌐 Portfolio Website
+- React + Tailwind  
+- Smooth animations  
+- Clean UI/UX  
+- Deployed on Vercel  
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdulHaq03&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -118,14 +130,14 @@ abdulhaque4171@gmail.com
 
 ---
 
-# 💭 Developer Mindset
+# 💭 Developer Philosophy
 
-> "First make it work.  
-> Then make it clean.  
-> Then make it scalable."
+> “Build scalable.  
+> Design clean.  
+> Deploy confidently.”
 
 ---
 
 <p align="center">
-🔥 Building. Learning. Growing.
+🚀 Always Building | Always Improving
 </p>
