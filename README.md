@@ -1,12 +1,12 @@
-<!-- ================= CINEMATIC PREMIUM IMPACT ================= -->
+<!-- ================= CINEMATIC ENGINEER IDENTITY ================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0f2027,100:203a43&height=260&section=header&text=ABDUL%20HAQUE&fontSize=65&fontColor=00F7FF&animation=twinkling&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0f2027,100:203a43&height=260&section=header&text=ABDUL%20HAQUE&fontSize=65&fontColor=00F7FF&animation=fadeIn&fontAlignY=40"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3200&color=00F7FF&center=true&vCenter=true&width=900&height=80&lines=Full+Stack+Engineer;MERN+Stack+Architect;Backend-Driven+Systems;Scalable+Web+Infrastructure;Production-Ready+Applications"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3200&color=00F7FF&center=true&vCenter=true&width=900&height=80&lines=Full+Stack+Engineer;MERN+Stack+Architect;Backend-Focused+System+Builder;REST+API+Specialist;Scalable+Web+Infrastructure"/>
 
 <br/>
 
@@ -20,22 +20,24 @@
 
 <div align="center">
 
-# ENGINEERING MANIFESTO
+# ENGINEERING PHILOSOPHY
 
 </div>
 
-I build structured digital systems.
+I am a Full Stack Engineer specializing in the MERN stack, with a strong emphasis on backend architecture and scalable system design.
 
-Not pages.  
-Not features.  
-Systems.
+My development approach is intentional and structured.  
+I focus on building clean, modular, and production-ready systems rather than isolated features.
 
-Designed for scale.  
-Engineered for reliability.  
-Built for production.
+I believe software should be:
+
+Reliable under scale.  
+Secure by design.  
+Maintainable over time.  
+Optimized for real-world deployment.
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3500&color=00F7FF&center=true&vCenter=true&width=750&lines=Backend+Reliability;Secure+Authentication+Flows;Modular+API+Design;Performance-Driven+Frontend;Cloud-Native+Deployment"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3500&color=00F7FF&center=true&vCenter=true&width=750&lines=Backend+Reliability;Secure+REST+Architecture;Modular+System+Design;Performance-Driven+Frontend;Cloud-Native+Deployment"/>
 </p>
 
 ---
@@ -56,7 +58,7 @@ Built for production.
 <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,html,css,vite,figma&theme=dark"/>
 </p>
 
-Structured components • State orchestration • Responsive systems • Optimized rendering  
+Component-based systems • State orchestration • Responsive architecture • Performance optimization  
 
 ---
 
@@ -66,17 +68,17 @@ Structured components • State orchestration • Responsive systems • Optimiz
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
 </p>
 
-REST architecture • JWT security • Middleware pipelines • MVC layering  
+RESTful API design • JWT authentication • Middleware pipelines • MVC structural layering  
 
 ---
 
-## Infrastructure
+## Infrastructure & Deployment
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postman,git,github,docker,vercel,render,netlify&theme=dark"/>
 </p>
 
-Schema modeling • Version control discipline • Containerization • Deployment strategy  
+Schema modeling • API testing • Version control • Containerization • Cloud deployment strategy  
 
 ---
 
@@ -86,34 +88,34 @@ Schema modeling • Version control discipline • Containerization • Deployme
 
 ## 01 ▸ Commerce Infrastructure
 
-A scalable MERN commerce system engineered with backend-first design.
+A scalable MERN commerce platform designed with backend-first architecture.
 
-• Role-based access control  
-• Admin-managed operations  
-• Modular routing architecture  
-• Cloud deployment with isolated environments  
+- Role-based authentication & access control  
+- Admin-managed product and order workflows  
+- Modular routing for extensibility  
+- Cloud deployment with environment isolation  
 
 ---
 
 ## 02 ▸ REST API Platform
 
-Backend system structured for maintainability and scale.
+A structured backend system engineered for clarity, maintainability, and secure communication.
 
-• Resource-based routing  
-• Validation middleware pipeline  
-• Centralized error handling  
-• Secure JWT authentication  
+- Resource-oriented routing architecture  
+- Middleware validation and centralized error handling  
+- Secure JWT-based authentication  
+- Postman-tested endpoint verification  
 
 ---
 
 ## 03 ▸ Portfolio Architecture
 
-Frontend system optimized for clarity and performance.
+A modern frontend system focused on clean structure and performance efficiency.
 
-• Component-driven UI design  
-• Responsive layout hierarchy  
-• Optimized render flow  
-• Production deployment  
+- Component-driven UI design  
+- Responsive layout hierarchy  
+- Optimized rendering flow  
+- Production-ready deployment  
 
 ---
 
@@ -149,7 +151,9 @@ Frontend system optimized for clarity and performance.
 
 <div align="center">
 
-### Architect. Build. Scale.
+### Architect Systems.  
+### Control Complexity.  
+### Deliver with Precision.
 
 </div>
 
