@@ -1,16 +1,12 @@
-<!-- ================= CINEMATIC ENGINEER IDENTITY ================= -->
+<!-- ================= REFINED CINEMATIC ENGINEER ================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0f2027,100:203a43&height=260&section=header&text=ABDUL%20HAQUE&fontSize=65&fontColor=00F7FF&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:111827,100:1f2937&height=240&section=header&text=ABDUL%20HAQUE&fontSize=60&fontColor=00F7FF&animation=fadeIn&fontAlignY=40"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3200&color=00F7FF&center=true&vCenter=true&width=900&height=80&lines=Full+Stack+Engineer;MERN+Stack+Architect;Backend-Focused+System+Builder;REST+API+Specialist;Scalable+Web+Infrastructure"/>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=AbdulHaq03&label=Profile%20Views&color=00F7FF&style=flat-square"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3200&color=00F7FF&center=true&vCenter=true&width=850&height=70&lines=Full+Stack+Engineer;MERN+Stack+Developer;Backend-Focused+Builder;REST+API+Specialist;Scalable+Web+Applications"/>
 
 </div>
 
@@ -20,31 +16,32 @@
 
 <div align="center">
 
-# ENGINEERING PHILOSOPHY
+## ABOUT
 
 </div>
 
-I am a Full Stack Engineer specializing in the MERN stack, with a strong emphasis on backend architecture and scalable system design.
+I’m a Full Stack Developer working primarily with the MERN stack.
 
-My development approach is intentional and structured.  
-I focus on building clean, modular, and production-ready systems rather than isolated features.
+I focus on building structured backend systems, secure APIs, and clean frontend applications that are ready for real-world use.
 
-I believe software should be:
+My goal is simple — build applications that are reliable, scalable, and easy to maintain.
 
-Reliable under scale.  
-Secure by design.  
-Maintainable over time.  
-Optimized for real-world deployment.
+<br/>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3500&color=00F7FF&center=true&vCenter=true&width=750&lines=Backend+Reliability;Secure+REST+Architecture;Modular+System+Design;Performance-Driven+Frontend;Cloud-Native+Deployment"/>
-</p>
+<div align="center">
+
+Clean Code  
+Secure APIs  
+Modular Structure  
+Real-World Deployment  
+
+</div>
 
 ---
 
-# ⚙ TECHNOLOGY STACK
+# ⚙ TECH STACK
 
-## Core Architecture
+## Core
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark"/>
@@ -52,81 +49,80 @@ Optimized for real-world deployment.
 
 ---
 
-## Frontend Engineering
+## Frontend
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,html,css,vite,figma&theme=dark"/>
 </p>
 
-Component-based systems • State orchestration • Responsive architecture • Performance optimization  
+Component-based UI • State management • Responsive design • Performance optimization  
 
 ---
 
-## Backend Engineering
+## Backend
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
 </p>
 
-RESTful API design • JWT authentication • Middleware pipelines • MVC structural layering  
+REST APIs • JWT Authentication • Middleware • MVC Architecture  
 
 ---
 
-## Infrastructure & Deployment
+## Tools & Deployment
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postman,git,github,docker,vercel,render,netlify&theme=dark"/>
 </p>
 
-Schema modeling • API testing • Version control • Containerization • Cloud deployment strategy  
+Database design • API testing • Version control • Containerization • Cloud deployment  
 
 ---
 
-# 🚀 ENGINEERED SYSTEMS
+# 🚀 PROJECTS
 
 ---
 
-## 01 ▸ Commerce Infrastructure
+## E-Commerce Platform
 
-A scalable MERN commerce platform designed with backend-first architecture.
+A complete MERN-based commerce application.
 
-- Role-based authentication & access control  
-- Admin-managed product and order workflows  
-- Modular routing for extensibility  
-- Cloud deployment with environment isolation  
-
----
-
-## 02 ▸ REST API Platform
-
-A structured backend system engineered for clarity, maintainability, and secure communication.
-
-- Resource-oriented routing architecture  
-- Middleware validation and centralized error handling  
-- Secure JWT-based authentication  
-- Postman-tested endpoint verification  
+- Secure JWT authentication  
+- Admin dashboard  
+- Structured backend routing  
+- Cloud deployment  
 
 ---
 
-## 03 ▸ Portfolio Architecture
+## REST API System
 
-A modern frontend system focused on clean structure and performance efficiency.
+Backend infrastructure built for clean routing and validation.
 
-- Component-driven UI design  
-- Responsive layout hierarchy  
-- Optimized rendering flow  
-- Production-ready deployment  
+- Resource-based endpoints  
+- Middleware validation  
+- Error handling structure  
+- Tested with Postman  
 
 ---
 
-# 📊 PERFORMANCE SNAPSHOT
+## Portfolio Application
+
+Frontend application focused on layout clarity and responsiveness.
+
+- Component-driven structure  
+- Clean visual hierarchy  
+- Optimized deployment  
+
+---
+
+# 📊 GITHUB
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AbdulHaq03&show_icons=true&theme=radical&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AbdulHaq03&show_icons=true&theme=dark&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulHaq03&theme=radical&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulHaq03&theme=dark&hide_border=true"/>
 </p>
 
 ---
@@ -151,12 +147,12 @@ A modern frontend system focused on clean structure and performance efficiency.
 
 <div align="center">
 
-### Architect Systems.  
-### Control Complexity.  
-### Deliver with Precision.
+Build clean.  
+Scale smart.  
+Ship with confidence.
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,50:0f2027,100:000000&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:111827,100:000000&height=130&section=footer"/>
 </div>
