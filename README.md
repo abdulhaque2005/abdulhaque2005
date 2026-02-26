@@ -1,91 +1,89 @@
-<!-- ================= EXECUTIVE ENGINEER PORTFOLIO ================= -->
+<!-- ================= CINEMATIC ENGINEER IDENTITY ================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:1f1f1f,100:000000&height=220&section=header&text=Abdul%20Haque&fontSize=56&fontColor=00F7FF&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f0f0f,100:1c1c1c&height=240&section=header&text=ABDUL%20HAQUE&fontSize=60&fontColor=00F7FF&animation=fadeIn&fontAlignY=40"/>
 
 <br/>
 
-### Full Stack Engineer  
-MERN Stack • Backend Architecture • REST Systems
+### SYSTEM-ORIENTED FULL STACK ENGINEER  
+MERN STACK • BACKEND ARCHITECTURE • REST SYSTEMS
 
 </div>
 
 ---
 
-## Profile
+## Engineering Identity
 
-Full Stack Developer focused on building scalable web systems with clean architectural structure and production discipline.
+I build web systems designed for structure, scale, and stability.
 
-I specialize in backend-first system design, secure API workflows, and maintainable frontend architecture.
+Not feature collections.  
+Not demo projects.  
+Systems.
+
+My work is centered around backend reliability, API discipline, and maintainable frontend architecture.
 
 ---
 
-## Technical Stack
+## Technical Depth
 
-### Core Technologies
+### Application Layer
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs"/>
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,html,css,vite"/>
 </p>
 
-### Frontend Engineering
-React • Redux • Tailwind CSS • Bootstrap • HTML • CSS • Vite
+Structured component systems  
+State orchestration  
+Performance-focused UI architecture  
 
-Structured component architecture • State management • Performance optimization
+---
 
-### Backend Engineering
-Node.js • Express.js  
-REST API design • JWT authentication • Middleware architecture • MVC pattern
+### Backend Architecture
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+RESTful resource design  
+JWT authentication workflows  
+Middleware orchestration  
+MVC structural separation  
+
+---
 
 ### Data & Infrastructure
-MongoDB • MySQL  
-Postman • Git • GitHub • Docker  
-Vercel • Render • Netlify
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postman,git,github,docker,vercel,render,netlify"/>
+</p>
+
+Schema modeling  
+Query optimization  
+Containerized environments  
+Cloud deployment discipline  
 
 ---
 
-## Core Capabilities
+## Engineered Systems
 
-- Backend architecture design  
-- Secure authentication systems  
-- RESTful API development  
-- Modular application structure  
-- Cloud-ready deployment workflows  
+### Commerce Platform
+Role-based authentication  
+Admin-controlled workflows  
+Modular backend routing  
+Production deployment  
 
----
+### API Infrastructure
+Resource-based routing  
+Centralized error handling  
+Secure validation layers  
+Postman-tested endpoints  
 
-## Selected Projects
-
-### E-Commerce Platform
-Designed and implemented a scalable MERN-based commerce system.
-
-- Role-based authentication & secure session handling  
-- Admin-controlled product & order management  
-- Modular backend routing for scalability  
-- Cloud deployment with environment isolation  
-
----
-
-### REST API System
-Developed a structured backend API infrastructure.
-
-- Resource-based routing  
-- Middleware validation & centralized error handling  
-- Secure JWT authentication flow  
-- Postman-tested endpoints  
+### Portfolio System
+Component-driven frontend  
+Responsive layout structure  
+Optimized deployment  
 
 ---
 
-### Portfolio Application
-Built a responsive frontend system with optimized layout structure.
-
-- Component-driven UI architecture  
-- Clean layout hierarchy  
-- Deployment on Vercel  
-
----
-
-## GitHub Overview
+## Performance Snapshot
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AbdulHaq03&show_icons=true&theme=dark&hide_border=true"/>
@@ -110,14 +108,6 @@ abdulhaque4171@gmail.com
 
 ---
 
-<div align="center">
-
-Build with clarity.  
-Architect with intent.  
-Deliver with discipline.
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1f1f1f,100:111111&height=120&section=footer"/>
-</div>
+> Architect systems.  
+> Control complexity.  
+> Ship with precision.
