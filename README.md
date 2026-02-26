@@ -1,1 +1,214 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abdul%20Haque&fontSize=50&fontColor=00FFFF&animation=fadeIn&fontAlignY=35"/> <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&color=00FFFF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Engineer;REST+API+Architect;UI%2FUX+Focused+Frontend;Building+Scalable+Web+Applications+🚀"/> <br/> <img src="https://komarev.com/ghpvc/?username=AbdulHaq03&label=PROFILE+VIEWS&color=00FFFF&style=flat-square"/> <img src="https://img.shields.io/badge/Focus-Full%20Stack-00FFFF?style=flat-square"/> <img src="https://img.shields.io/badge/Architecture-MERN-24243e?style=flat-square"/> <img src="https://img.shields.io/badge/APIs-REST-302b63?style=flat-square"/> </div> --- ## 👨‍💻 About Me <div align="center"> Full Stack Developer specializing in <b>MERN Stack</b>.<br/> Focused on scalable backend systems, clean UI/UX,<br/> and production-ready web applications. <br/> 🚀 Real-world full stack applications 🔥 Secure REST API development 🎨 Clean & responsive UI ☁ Modern cloud deployment </div> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=00FFFF&center=true&vCenter=true&width=650&lines=Scalable+Architecture;Secure+API+Design;Modern+UI%2FUX;Cloud+Deployment+Ready"/> </p> --- # 🛠 Tech Stack ## 🚀 MERN Core <p align="center"> <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs"/> </p> ## 🎨 Frontend & UI <p align="center"> <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,html,css,vite,figma"/> </p> ## 🔵 Backend & APIs <p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express"/> </p> <div align="center"> REST API • JWT Auth • MVC Pattern • Middleware </div> ## 🗄 Database <p align="center"> <img src="https://skillicons.dev/icons?i=mongodb,mysql"/> </p> ## 🧪 Tools <p align="center"> <img src="https://skillicons.dev/icons?i=postman,git,github"/> </p> ## ☁ Deployment <p align="center"> <img src="https://skillicons.dev/icons?i=vercel,netlify,render,docker"/> </p> --- # ⚡ Core Strengths <div align="center"> <img src="https://img.shields.io/badge/Frontend%20Engineering-Advanced-00FFFF?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Backend%20Architecture-Strong-24243e?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/REST%20API%20Design-Professional-302b63?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/UI%2FUX%20Implementation-Clean%20Focus-0f0c29?style=for-the-badge&logo=figma&logoColor=white"/> </div> --- # 🚀 Featured Projects ## 🛒 Full Stack E-Commerce Platform - MERN architecture - Secure JWT authentication - Admin dashboard - Responsive UI - Cloud deployed ## 📚 REST API System - Express + MongoDB - CRUD operations - Middleware validation - Tested with Postman ## 🌐 Portfolio Website - React + Tailwind - Smooth transitions - Modern glass UI - Deployed on Vercel --- # 📊 GitHub Analytics <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbdulHaq03&show_icons=true&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulHaq03&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulHaq03&theme=react-dark&hide_border=true"/> </p> --- # 📫 Connect <p align="center"> <a href="https://www.linkedin.com/in/abdul-haque-a08150398"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a> <a href="https://x.com/Abdul_haque_78"> <img src="https://skillicons.dev/icons?i=twitter"/> </a> <a href="mailto:abdulhaque4171@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> </p> --- <div align="center"> ### ⚡ Developer Mindset > Build Clean. > Scale Smart. > Ship Fast. </div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/> </div> ye h ana isi mei layout smoothly bnaow yaar ye to beker lagta h noraml
+<!-- ================= CYBERPUNK ELITE • LAYOUT POLISHED ================= -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Abdul%20Haque&fontSize=54&fontColor=00FFFF&animation=fadeIn&fontAlignY=40"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=00FFFF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;MERN+Stack+Engineer;REST+API+Architect;UI%2FUX+Focused+Frontend;Building+Scalable+Web+Applications+🚀"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=AbdulHaq03&label=PROFILE+VIEWS&color=00FFFF&style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-Full%20Stack-00FFFF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Architecture-MERN-24243e?style=flat-square"/>
+<img src="https://img.shields.io/badge/APIs-REST-302b63?style=flat-square"/>
+
+</div>
+
+---
+
+<br/>
+
+## 👨‍💻 About Me
+
+<div align="center">
+
+Full Stack Developer specializing in <b>MERN Stack</b>.
+
+Focused on scalable backend systems, clean UI/UX,  
+and production-ready web applications.
+
+<br/>
+
+🚀 Real-world full stack applications  
+🔥 Secure REST API development  
+🎨 Clean & responsive UI  
+☁ Modern cloud deployment  
+
+</div>
+
+<br/>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=00FFFF&center=true&vCenter=true&width=650&lines=Scalable+Architecture;Secure+API+Design;Modern+UI%2FUX;Cloud+Deployment+Ready"/>
+</p>
+
+---
+
+<br/>
+
+# 🛠 Tech Stack
+
+<br/>
+
+## 🚀 MERN Core
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs"/>
+</p>
+
+<br/>
+
+## 🎨 Frontend & UI
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,html,css,vite,figma"/>
+</p>
+
+<br/>
+
+## 🔵 Backend & APIs
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+<div align="center">
+
+REST API • JWT Auth • MVC Pattern • Middleware
+
+</div>
+
+<br/>
+
+## 🗄 Database
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
+
+<br/>
+
+## 🧪 Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postman,git,github"/>
+</p>
+
+<br/>
+
+## ☁ Deployment
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vercel,netlify,render,docker"/>
+</p>
+
+---
+
+<br/>
+
+# ⚡ Core Strengths
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Frontend%20Engineering-Advanced-00FFFF?style=for-the-badge&logo=react&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Backend%20Architecture-Strong-24243e?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/REST%20API%20Design-Professional-302b63?style=for-the-badge&logo=express&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/UI%2FUX%20Implementation-Clean%20Focus-0f0c29?style=for-the-badge&logo=figma&logoColor=white"/>
+
+</div>
+
+---
+
+<br/>
+
+# 🚀 Featured Projects
+
+<br/>
+
+## 🛒 Full Stack E-Commerce Platform
+
+- MERN architecture  
+- Secure JWT authentication  
+- Admin dashboard  
+- Responsive UI  
+- Cloud deployed  
+
+---
+
+## 📚 REST API System
+
+- Express + MongoDB  
+- CRUD operations  
+- Middleware validation  
+- Tested with Postman  
+
+---
+
+## 🌐 Portfolio Website
+
+- React + Tailwind  
+- Smooth transitions  
+- Modern glass UI  
+- Deployed on Vercel  
+
+---
+
+<br/>
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AbdulHaq03&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulHaq03&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulHaq03&theme=react-dark"/>
+</p>
+
+---
+
+<br/>
+
+# 📫 Connect
+
+<p align="center">
+<a href="https://www.linkedin.com/in/abdul-haque-a08150398">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/Abdul_haque_78">
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:abdulhaque4171@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### ⚡ Developer Mindset
+
+> Build Clean.  
+> Scale Smart.  
+> Ship Fast.
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+</div>
