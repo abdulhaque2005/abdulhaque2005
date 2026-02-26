@@ -1,18 +1,16 @@
-<!-- ================= CINEMATIC ENGINEER PORTFOLIO FINAL ================= -->
+<!-- ================= CINEMATIC PREMIUM IMPACT ================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Abdul%20Haque&fontSize=60&fontColor=00F7FF&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0f2027,100:203a43&height=260&section=header&text=ABDUL%20HAQUE&fontSize=65&fontColor=00F7FF&animation=twinkling&fontAlignY=40"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Engineer;MERN+Stack+Specialist;REST+API+Architect;System-Focused+Developer;Production-Ready+Web+Infrastructure"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3200&color=00F7FF&center=true&vCenter=true&width=900&height=80&lines=Full+Stack+Engineer;MERN+Stack+Architect;Backend-Driven+Systems;Scalable+Web+Infrastructure;Production-Ready+Applications"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=AbdulHaq03&label=Profile%20Views&color=00FFFF&style=flat-square"/>
-<img src="https://img.shields.io/badge/Stack-MERN-24243e?style=flat-square"/>
-<img src="https://img.shields.io/badge/Focus-Backend%20Architecture-302b63?style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=AbdulHaq03&label=Profile%20Views&color=00F7FF&style=flat-square"/>
 
 </div>
 
@@ -22,35 +20,29 @@
 
 <div align="center">
 
-## ENGINEERING PHILOSOPHY
+# ENGINEERING MANIFESTO
 
 </div>
 
-I approach full stack development as **system engineering**.
+I build structured digital systems.
 
-Not just building features —  
-but designing scalable, maintainable architecture built for real-world deployment.
+Not pages.  
+Not features.  
+Systems.
 
-<br/>
-
-<div align="center">
-
-Scalability first  
-Security by design  
-Structure over shortcuts  
-Deployment with discipline  
-
-</div>
+Designed for scale.  
+Engineered for reliability.  
+Built for production.
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3500&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Reliability;Secure+REST+Architecture;Structured+Frontend+Systems;Cloud-Ready+Infrastructure"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3500&color=00F7FF&center=true&vCenter=true&width=750&lines=Backend+Reliability;Secure+Authentication+Flows;Modular+API+Design;Performance-Driven+Frontend;Cloud-Native+Deployment"/>
 </p>
 
 ---
 
-# ⚙ Engineering Stack
+# ⚙ TECHNOLOGY STACK
 
-## Core MERN
+## Core Architecture
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark"/>
@@ -58,33 +50,33 @@ Deployment with discipline
 
 ---
 
-## Frontend Systems
+## Frontend Engineering
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,html,css,vite,figma&theme=dark"/>
 </p>
 
-Component architecture • State orchestration • Responsive design • Performance optimization  
+Structured components • State orchestration • Responsive systems • Optimized rendering  
 
 ---
 
-## Backend Architecture
+## Backend Engineering
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
 </p>
 
-RESTful design • JWT authentication • Middleware pipeline • MVC structure  
+REST architecture • JWT security • Middleware pipelines • MVC layering  
 
 ---
 
-## Data & Infrastructure
+## Infrastructure
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postman,git,github,docker,vercel,render,netlify&theme=dark"/>
 </p>
 
-Schema modeling • API testing • Version control • Containerization • Deployment workflows  
+Schema modeling • Version control discipline • Containerization • Deployment strategy  
 
 ---
 
@@ -92,40 +84,40 @@ Schema modeling • API testing • Version control • Containerization • Dep
 
 ---
 
-### 01 — Commerce Platform Architecture
+## 01 ▸ Commerce Infrastructure
 
-A production-grade MERN system built with modular routing and secure authentication.
+A scalable MERN commerce system engineered with backend-first design.
 
-- Role-based access control  
-- Admin-managed product & order workflows  
-- Scalable backend routing structure  
-- Cloud-based deployment  
-
----
-
-### 02 — REST API Infrastructure
-
-Backend architecture engineered for clarity and long-term maintainability.
-
-- Resource-oriented routing  
-- Middleware validation layers  
-- Centralized error handling  
-- Secure JWT authentication flow  
+• Role-based access control  
+• Admin-managed operations  
+• Modular routing architecture  
+• Cloud deployment with isolated environments  
 
 ---
 
-### 03 — Portfolio System Design
+## 02 ▸ REST API Platform
 
-Frontend system optimized for performance and clean visual hierarchy.
+Backend system structured for maintainability and scale.
 
-- Component-driven UI system  
-- Responsive layout structure  
-- Optimized rendering pipeline  
-- Production deployment  
+• Resource-based routing  
+• Validation middleware pipeline  
+• Centralized error handling  
+• Secure JWT authentication  
 
 ---
 
-# 📊 GitHub Performance
+## 03 ▸ Portfolio Architecture
+
+Frontend system optimized for clarity and performance.
+
+• Component-driven UI design  
+• Responsive layout hierarchy  
+• Optimized render flow  
+• Production deployment  
+
+---
+
+# 📊 PERFORMANCE SNAPSHOT
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AbdulHaq03&show_icons=true&theme=radical&hide_border=true"/>
@@ -137,7 +129,7 @@ Frontend system optimized for performance and clean visual hierarchy.
 
 ---
 
-# 📫 Connect
+# 📫 CONNECT
 
 <p align="center">
 <a href="https://www.linkedin.com/in/abdul-haque-a08150398">
@@ -157,12 +149,10 @@ Frontend system optimized for performance and clean visual hierarchy.
 
 <div align="center">
 
-### Architect Systems.  
-### Control Complexity.  
-### Ship with Precision.
+### Architect. Build. Scale.
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,50:0f2027,100:000000&height=150&section=footer"/>
 </div>
