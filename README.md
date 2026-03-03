@@ -1,6 +1,6 @@
 <!-- MASSIVE EPIC BANNER -->
 <a href="https://github.com/abdulhaque2005">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-5611dd08-17a6-4ed0-90c0-f471cb7ff664.gif" width="100%" style="border-radius: 20px; box-shadow: 0px 0px 30px #FF0000;" />
+  <img src="https://media.giphy.com/media/26AHgOche1G1oZ8hW/giphy.gif" width="100%" style="border-radius: 20px; box-shadow: 0px 0px 30px #FF0000;" />
 </a>
 
 <div align="center">
@@ -33,7 +33,7 @@
   <tr>
     <td width="35%" align="center" style="padding: 15px;">
       <!-- ANIME HACKER GIF OR INTENSE CODING GIF -->
-      <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="100%" style="border-radius: 10px; border: 2px solid #ff0000;" />
+      <img src="https://i.pinimg.com/originals/a1/34/d6/a134d69bccc38ab0ef96c6b2ceeb2a4c.gif" width="100%" style="border-radius: 10px; border: 2px solid #ff0000;" />
     </td>
     <td width="65%" style="padding: 20px; color: #FFFFFF;">
       <h2 style="color: #FF0000;"><code>&gt; ./executable_whoami.sh</code></h2>
@@ -53,16 +53,27 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.gif" width="100%" /> 
 </p>
 
-<!-- HEAVY ARSENAL SECTION -->
-<h2 align="center" style="color: #FF0000;"> ⚔️ WEAPONS OF CHOICE ⚔️ </h2>
-<p align="center"><i>Languages, Frameworks, and Tools in my Arsenal.</i></p>
+<!-- HEAVY ARSENAL SECTION WITH 3D EFFECT GIF (GitHub markdown doesn't support raw JS!) -->
+<h2 align="center" style="color: #FF0000;"> ⚔️ 3D TECH STACK & WEAPONS ⚔️ </h2>
+<p align="center"><i>Languages & Frameworks inside 3D environment visualization.</i></p>
 <br>
+
 <div align="center">
-  <div style="background-color: #0d1117; padding: 20px; border-radius: 15px; border: 1px solid #FF0000; display: inline-block;">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,docker,kubernetes,git,github,aws,linux,tailwind&theme=dark&perline=8" />
-    </a>
-  </div>
+  <table style="border: none; background: transparent;">
+    <tr>
+      <td width="50%" align="center">
+        <!-- Awesome Rotating 3D Globe / Hologram Representation mimicking ThreeJS -->
+        <img src="https://media.giphy.com/media/RHIKd1M52S8wM/giphy.gif" alt="3D Globe Core" width="220px" style="border-radius:50%; box-shadow: 0 0 40px #FF0000;" />
+      </td>
+      <td width="50%" align="center">
+        <div style="background-color: #0d1117; padding: 20px; border-radius: 15px; border: 1px solid #FF0000;">
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,docker,aws,git,github,tailwind&theme=dark&perline=4" />
+          </a>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
@@ -70,21 +81,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.gif" width="100%" /> 
 </p>
-
-<!-- CONTRIBUTION SNAKE ANIMATION -->
-<h2 align="center" style="color: #FF0000;"> 🐍 CONTRIBUTION ACTIVITY SNAKE 🐍 </h2>
-<p align="center"><i>Visualizing consistency: Eating my own commits.</i></p>
-
-<div align="center">
-  <!-- GitHub Action generated Snake will be loaded here. Ensure you setup the action! -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulhaque2005/abdulhaque2005/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdulhaque2005/abdulhaque2005/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abdulhaque2005/abdulhaque2005/output/github-contribution-grid-snake.svg" style="border: 2px solid #ff0000; border-radius: 15px; background: #0d1117;">
-  </picture>
-</div>
-
-<br>
 
 <!-- INSANE STATISTICS GRID -->
 <h2 align="center" style="color: #FF0000;"> 📈 COMBAT STATISTICS 📈 </h2>
@@ -116,7 +112,7 @@
 <br>
 
 <!-- ACTIVITY GRAPH VISUALIZATION -->
-<h2 align="center" style="color: #FF0000;"> � RAW COMMITS DASHBOARD � </h2>
+<h2 align="center" style="color: #FF0000;"> 💀 RAW COMMITS DASHBOARD 💀 </h2>
 <div align="center">
   <a href="https://github.com/abdulhaque2005">
     <!-- Generating activity graph custom themed to Red & Black -->
