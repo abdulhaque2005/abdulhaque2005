@@ -1,3 +1,4 @@
+<!-- HACKER TERMINAL: ABOUT ME -->
 <!-- MASSIVE EPIC BANNER -->
 <a href="https://github.com/AbdulHaq03">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-5611dd08-17a6-4ed0-90c0-f471cb7ff664.gif" width="100%" style="border-radius: 20px; box-shadow: 0px 0px 30px #FF0000;" />
