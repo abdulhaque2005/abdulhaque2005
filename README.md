@@ -1,6 +1,5 @@
-<!-- HACKER TERMINAL: ABOUT ME -->
 <!-- MASSIVE EPIC BANNER -->
-<a href="https://github.com/AbdulHaq03">
+<a href="https://github.com/abdulhaque2005">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-5611dd08-17a6-4ed0-90c0-f471cb7ff664.gif" width="100%" style="border-radius: 20px; box-shadow: 0px 0px 30px #FF0000;" />
 </a>
 
@@ -8,18 +7,18 @@
   <!-- INSANE TYPING ANIMATION IN RED -->
   <h1>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=45&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=�+BEAST+MODE+ACTIVATED;SYSTEM+ARCHITECT+|+BUG+HUNTER;I+WRITE+CODE+THAT+DOMINATES;WARNING:+HIGHLY+SCALABLE+DEVELOPER" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=45&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=🔥+BEAST+MODE+ACTIVATED;SYSTEM+ARCHITECT+|+BUG+HUNTER;I+WRITE+CODE+THAT+DOMINATES;WARNING:+HIGHLY+SCALABLE+DEVELOPER" alt="Typing SVG" />
     </a>
   </h1>
 
   <!-- FOR THE BADGE INTENSE COUNTERS -->
   <p align="center">
-    <a href="https://github.com/AbdulHaq03">
+    <a href="https://github.com/abdulhaque2005">
       <img src="https://img.shields.io/badge/DEVELOPER-ELITE_TIER-ff0000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
     </a>
-    <img src="https://komarev.com/ghpvc/?username=AbdulHaq03&label=PROFILE+VIEWS&color=ff0000&style=for-the-badge&labelColor=000000" alt="Visitor Count" />
-    <a href="https://github.com/AbdulHaq03">
-      <img src="https://img.shields.io/github/followers/AbdulHaq03?label=FOLLOWERS&style=for-the-badge&color=ff0000&labelColor=000000" alt="GitHub followers"/>
+    <img src="https://komarev.com/ghpvc/?username=abdulhaque2005&label=PROFILE+VIEWS&color=ff0000&style=for-the-badge&labelColor=000000" alt="Visitor Count" />
+    <a href="https://github.com/abdulhaque2005">
+      <img src="https://img.shields.io/github/followers/abdulhaque2005?label=FOLLOWERS&style=for-the-badge&color=ff0000&labelColor=000000" alt="GitHub followers"/>
     </a>
   </p>
 </div>
@@ -72,27 +71,42 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.gif" width="100%" /> 
 </p>
 
+<!-- CONTRIBUTION SNAKE ANIMATION -->
+<h2 align="center" style="color: #FF0000;"> 🐍 CONTRIBUTION ACTIVITY SNAKE 🐍 </h2>
+<p align="center"><i>Visualizing consistency: Eating my own commits.</i></p>
+
+<div align="center">
+  <!-- GitHub Action generated Snake will be loaded here. Ensure you setup the action! -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulhaque2005/abdulhaque2005/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdulhaque2005/abdulhaque2005/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abdulhaque2005/abdulhaque2005/output/github-contribution-grid-snake.svg" style="border: 2px solid #ff0000; border-radius: 15px; background: #0d1117;">
+  </picture>
+</div>
+
+<br>
+
 <!-- INSANE STATISTICS GRID -->
-<h2 align="center" style="color: #FF0000;"> � COMBAT STATISTICS 📈 </h2>
+<h2 align="center" style="color: #FF0000;"> 📈 COMBAT STATISTICS 📈 </h2>
 <div align="center">
   <table style="border: none; background: transparent;">
     <tr>
       <td align="center">
-        <a href="https://github.com/AbdulHaq03">
-          <img src="https://github-readme-stats.vercel.app/api?username=AbdulHaq03&show_icons=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=0d1117" alt="GitHub stats" />
+        <a href="https://github.com/abdulhaque2005">
+          <img src="https://github-readme-stats.vercel.app/api?username=abdulhaque2005&show_icons=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=0d1117" alt="GitHub stats" />
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/AbdulHaq03">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulHaq03&hide_border=true&title_color=FF0000&sideLabels=FFFFFF&sideNums=FF0000&dates=FFFFFF&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&currStreakNum=FF0000&bg_color=0d1117" alt="GitHub Streak" />
+        <a href="https://github.com/abdulhaque2005">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulhaque2005&hide_border=true&title_color=FF0000&sideLabels=FFFFFF&sideNums=FF0000&dates=FFFFFF&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&currStreakNum=FF0000&bg_color=0d1117" alt="GitHub Streak" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
         <br>
-        <a href="https://github.com/AbdulHaq03">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulHaq03&layout=compact&hide_border=true&title_color=FF0000&text_color=FFFFFF&bg_color=0d1117" alt="Top Languages" />
+        <a href="https://github.com/abdulhaque2005">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhaque2005&layout=compact&hide_border=true&title_color=FF0000&text_color=FFFFFF&bg_color=0d1117" alt="Top Languages" />
         </a>
       </td>
     </tr>
@@ -102,12 +116,11 @@
 <br>
 
 <!-- ACTIVITY GRAPH VISUALIZATION -->
-<h2 align="center" style="color: #FF0000;"> 🐍 CONTRIBUTION ACTIVITY DASHBOARD 🐍 </h2>
-<p align="center"><i>Visualizing consistency and raw commits.</i></p>
+<h2 align="center" style="color: #FF0000;"> � RAW COMMITS DASHBOARD � </h2>
 <div align="center">
-  <a href="https://github.com/AbdulHaq03">
+  <a href="https://github.com/abdulhaque2005">
     <!-- Generating activity graph custom themed to Red & Black -->
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulHaq03&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulhaque2005&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true" width="100%" />
   </a>
 </div>
 
@@ -120,9 +133,9 @@
 <!-- DARK TROPHY SECTION -->
 <h2 align="center" style="color: #FF0000;"> 🏆 ACHIEVEMENTS & TROPHIES 🏆 </h2>
 <div align="center">
-  <a href="https://github.com/AbdulHaq03">
+  <a href="https://github.com/abdulhaque2005">
     <!-- Deep dark mode trophies with red borders removed via parameters but keeping theme -->
-    <img src="https://github-profile-trophy.vercel.app/?username=AbdulHaq03&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=abdulhaque2005&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
   </a>
 </div>
 
@@ -133,7 +146,7 @@
 </p>
 
 <!-- SECURE CONNECTION NETWORK -->
-<h2 align="center" style="color: #FF0000;"> � SECURE CONNECTION ESTABLISHED 📡 </h2>
+<h2 align="center" style="color: #FF0000;"> 📡 SECURE CONNECTION ESTABLISHED 📡 </h2>
 <br/>
 
 <div align="center">
