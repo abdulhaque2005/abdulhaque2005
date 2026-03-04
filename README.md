@@ -1,6 +1,5 @@
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=abdulhaque2005&label=PROFILE+VIEWS&color=ff0000&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/abdulhaque2005?label=FOLLOWERS&style=for-the-badge&color=ff0000"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=45&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Abdul+Haque;MERN+Stack+Developer;Full+Stack+Engineer;Building+Scalable+Web+Apps"/>
 </p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=abdulhaque2005&label=PROFILE+VIEWS&color=ff0000&style=for-the-badge"/>
