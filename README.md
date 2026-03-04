@@ -1,8 +1,3 @@
-<h1 align="center">🔥 BEAST MODE ACTIVATED 🔥</h1>
-
-<p align="center">
-<img src="https://media.giphy.com/media/26AHgOche1G1oZ8hW/giphy.gif" width="100%">
-</p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=abdulhaque2005&label=PROFILE+VIEWS&color=ff0000&style=for-the-badge"/>
