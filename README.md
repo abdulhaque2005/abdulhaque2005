@@ -1,4 +1,7 @@
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=abdulhaque2005&label=PROFILE+VIEWS&color=ff0000&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/abdulhaque2005?label=FOLLOWERS&style=for-the-badge&color=ff0000"/>
+</p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=abdulhaque2005&label=PROFILE+VIEWS&color=ff0000&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/abdulhaque2005?label=FOLLOWERS&style=for-the-badge&color=ff0000"/>
