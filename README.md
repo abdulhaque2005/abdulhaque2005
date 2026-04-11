@@ -14,8 +14,6 @@
 
 ---
 
-# 👨‍💻 Abdul Haque
-
 ## 🚀 About Me
 
 I am a passionate **Full-Stack MERN Developer** who focuses on building scalable and high-performance web applications.  
@@ -28,31 +26,46 @@ I love solving complex problems and turning them into simple, efficient, and use
 
 ---
 
+<!-- 🔗 IMPORTANT LINKS -->
+<p align="center">
+
+<a href="https://abdul-portfolio-rose.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://leetcode.com/u/pDjnXUuCp8/">
+<img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode"/>
+</a>
+
+</p>
+
+---
+
 ## ⚔️ Skills & Technologies
 
 ### 🎨 Frontend
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,html,css"/>
 </p>
 
 ---
 
 ### ⚙️ Backend
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
 ---
 
 ### 🗄️ Database
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
 </p>
 
 ---
 
 ### ☁️ Tools & DevOps
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=docker,aws,git,github"/>
 </p>
 
@@ -83,7 +96,9 @@ I love solving complex problems and turning them into simple, efficient, and use
 
 ## 🏆 Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=abdulhaque2005&theme=radical&no-frame=true"/>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=abdulhaque2005&theme=radical&margin-w=10&no-frame=true"/>
+</p>
 
 ---
 
