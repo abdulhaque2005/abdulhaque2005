@@ -26,7 +26,7 @@ I love solving complex problems and turning them into simple, efficient, and use
 
 ---
 
-<!-- 🔗 ALL LINKS IN ONE PLACE -->
+<!-- 🔗 ALL LINKS -->
 <p align="center">
 
 <a href="https://abdul-portfolio-rose.vercel.app/">
@@ -103,14 +103,6 @@ I love solving complex problems and turning them into simple, efficient, and use
 ## 📈 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulhaque2005&theme=github-compact"/>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abdulhaque2005&theme=radical&margin-w=10&no-frame=true"/>
-</p>
 
 ---
 
