@@ -1,6 +1,12 @@
+<!-- 🔥 TOP BANNER -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=45&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Abdul+Haque;MERN+Stack+Developer;Full+Stack+Engineer;Building+Scalable+Web+Apps"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=200&section=header&text=Abdul%20Haque&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer;Full+Stack+Engineer;Building+Scalable+Web+Apps"/>
+</p>
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=abdulhaque2005&label=PROFILE+VIEWS&color=ff0000&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/abdulhaque2005?label=FOLLOWERS&style=for-the-badge&color=ff0000"/>
@@ -10,49 +16,78 @@
 
 # 👨‍💻 Abdul Haque
 
-**Elite Full-Stack Engineer / MERN Developer**
+## 🚀 About Me
 
-🚀 Building scalable web apps  
-⚡ Passionate about React & Node  
-🔥 Love solving DSA problems  
+I am a passionate **Full-Stack MERN Developer** who focuses on building scalable and high-performance web applications.  
+I love solving complex problems and turning them into simple, efficient, and user-friendly solutions.
+
+- 🚀 Building modern web applications  
+- ⚡ Focused on React & backend systems  
+- 🔥 Solving DSA problems regularly  
+- 📈 Always learning new technologies  
 
 ---
 
-# ⚔️ Tech Stack
+## ⚔️ Skills & Technologies
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,docker,aws,git,github,tailwind"/>
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,html,css"/>
 </p>
 
 ---
 
-# 📊 GitHub Stats
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+---
+
+### 🗄️ Database
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
+</p>
+
+---
+
+### ☁️ Tools & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github"/>
+</p>
+
+---
+
+### 🧠 Problem Solving
+- Data Structures & Algorithms  
+- LeetCode  
+- Competitive Programming  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=abdulhaque2005&show_icons=true&theme=radical"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulhaque2005&theme=radical"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhaque2005&layout=compact&theme=radical"/>
-
 </p>
 
 ---
 
-# 📈 Activity Graph
+## 📈 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulhaque2005&theme=github-compact"/>
 
 ---
 
-# 🏆 Trophies
+## 🏆 Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=abdulhaque2005&theme=radical&no-frame=true"/>
 
 ---
 
-# 📡 Connect With Me
+## 📡 Connect With Me
 
 <p align="center">
 
@@ -68,4 +103,11 @@
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
+</p>
+
+---
+
+<!-- 🔻 FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
 </p>
