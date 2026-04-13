@@ -29,9 +29,6 @@ I love solving complex problems and turning them into simple, efficient, and use
 <!-- 🔗 ALL LINKS -->
 <!-- 🔥 CONNECT WITH ME (ANIMATED STYLE) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Let's+Connect+and+Build+Something+Amazing+🚀;Open+for+Collaboration+%26+Opportunities;Feel+Free+to+Reach+Out+🔥"/>
-</p>
-
 <p align="center">
   <b>✨ Connect With Me ✨</b>
 </p>
