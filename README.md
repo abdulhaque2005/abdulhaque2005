@@ -1,15 +1,15 @@
 <!-- 🔥 TOP BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=200&section=header&text=Abdul%20Haque&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=200&section=header&text=Abdul%20Haque&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer;Full+Stack+Engineer;Building+Scalable+Web+Apps"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer;Full+Stack+Engineer;Building+Scalable+Web+Apps"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdulhaque2005&label=PROFILE+VIEWS&color=ff0000&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/abdulhaque2005?label=FOLLOWERS&style=for-the-badge&color=ff0000"/>
+  <img src="https://komarev.com/ghpvc/?username=abdulhaque2005&label=PROFILE+VIEWS&color=00ff00&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/abdulhaque2005?label=FOLLOWERS&style=for-the-badge&color=00ff00"/>
 </p>
 
 ---
@@ -28,14 +28,14 @@ I love solving complex problems and turning them into simple, efficient, and use
 
 <!-- 🔥 CONNECT WITH ME -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=FF0000&center=true&vCenter=true&width=600&lines=Let's+Connect+%F0%9F%9A%80;Open+for+Collaboration+%F0%9F%94%A5;Building+Cool+Projects+Together"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=00FF00&center=true&vCenter=true&width=600&lines=Let's+Connect+%F0%9F%9A%80;Open+for+Collaboration+%F0%9F%94%A5;Building+Cool+Projects+Together"/>
 </p>
 
 <h3 align="center">✨ Connect With Me ✨</h3>
 
 <p align="center">
   <a href="https://abdul-portfolio-rose.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=vercel"/>
+    <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=vercel"/>
   </a>
 
   <a href="https://leetcode.com/u/pDjnXUuCp8/">
@@ -43,7 +43,7 @@ I love solving complex problems and turning them into simple, efficient, and use
   </a>
 
   <a href="https://www.linkedin.com/in/abdul-haque78/">
-    <img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-green?style=for-the-badge&logo=linkedin"/>
   </a>
 
   <a href="https://x.com/Abdul_haque_78">
@@ -51,7 +51,7 @@ I love solving complex problems and turning them into simple, efficient, and use
   </a>
 
   <a href="mailto:abdulhaque4171@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-green?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
@@ -114,5 +114,5 @@ I love solving complex problems and turning them into simple, efficient, and use
 
 <!-- 🔻 FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=footer"/>
 </p>
